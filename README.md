@@ -28,6 +28,22 @@ A browser-based AI chatbot built from scratch in Python. It has three switchable
 
 [Source, tests, and full documentation](Projects/AI-Chatbot)
 
+### [Vulnerability Assessment Labs](Projects/Vulnerability-Assessment-Labs)
+
+Hands-on scanning with Nmap, Nessus, and OpenVAS on my own machine and a Hack The Box Academy target. Compared scanner results, found an unpatched CVE, and wrote a report with CVSS scores and remediation steps.
+
+### [Wireshark Traffic Analysis](Projects/Wireshark-Traffic-Analysis)
+
+SIEM lab analyzing real traffic: Teams calls, DNS, TLS handshakes, and ARP, and what metadata reveals even when traffic is encrypted.
+
+### [Productivity Dashboard with Amazon Kiro](Projects/AWS-Kiro-Dashboard)
+
+Built at an AWS workshop with AI-assisted development: Pomodoro timer, task tracker, and live weather.
+
+### [ATCAP Senior Capstone](Projects/ATCAP-Capstone)
+
+Led a five-person team delivering a website, job application system, and Python review script for a home healthcare client.
+
 ---
 
 ## Experience
